@@ -16,7 +16,7 @@
   <description>Webapp.</description>
 
   <build>
-    <finalName>test</finalName>
+    <finalName>maven-project-test</finalName>
 
     <plugins>
       <plugin>
